@@ -1,0 +1,20 @@
+D:\Learning\hk4-2020 2021\Lập trình winform\Final Project\Final Project\Final Project\bin\Debug\Final Project.exe.config
+D:\Learning\hk4-2020 2021\Lập trình winform\Final Project\Final Project\Final Project\bin\Debug\Final Project.exe
+D:\Learning\hk4-2020 2021\Lập trình winform\Final Project\Final Project\Final Project\bin\Debug\Final Project.pdb
+D:\Learning\hk4-2020 2021\Lập trình winform\Final Project\Final Project\Final Project\bin\Debug\Guna.UI2.dll
+D:\Learning\hk4-2020 2021\Lập trình winform\Final Project\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+D:\Learning\hk4-2020 2021\Lập trình winform\Final Project\Final Project\Final Project\obj\Debug\Final_Project.FormSinhVien.resources
+D:\Learning\hk4-2020 2021\Lập trình winform\Final Project\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+D:\Learning\hk4-2020 2021\Lập trình winform\Final Project\Final Project\Final Project\obj\Debug\Final_Project.Quanlysach.resources
+D:\Learning\hk4-2020 2021\Lập trình winform\Final Project\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+D:\Learning\hk4-2020 2021\Lập trình winform\Final Project\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+D:\Learning\hk4-2020 2021\Lập trình winform\Final Project\Final Project\Final Project\obj\Debug\Final Project.csproj.CopyComplete
+D:\Learning\hk4-2020 2021\Lập trình winform\Final Project\Final Project\Final Project\obj\Debug\Final Project.exe
+D:\Learning\hk4-2020 2021\Lập trình winform\Final Project\Final Project\Final Project\obj\Debug\Final Project.pdb
+D:\Learning\hk4-2020 2021\Lập trình winform\Final Project\Final Project\Final Project\obj\Debug\Final Project.exe.licenses
+D:\Learning\hk4-2020 2021\Lập trình winform\Final Project\Final Project\Final Project\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Learning\hk4-2020 2021\Lập trình winform\Final Project\Final Project\Final Project\obj\Debug\Final_Project.FormGiaoVien.resources
+D:\Learning\hk4-2020 2021\Lập trình winform\Final Project\Final Project\Final Project\obj\Debug\Final_Project.QuanLy.resources
+D:\Learning\hk4-2020 2021\Lập trình winform\Final Project\Final Project\Final Project\obj\Debug\Final_Project.QuanLyNhanVien.resources
+D:\Learning\hk4-2020 2021\Lập trình winform\Final Project\Final Project\Final Project\obj\Debug\Final_Project.GioiThieu.resources
+D:\Learning\hk4-2020 2021\Lập trình winform\Final Project\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
