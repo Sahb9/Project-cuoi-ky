@@ -29,6 +29,7 @@ namespace Final_Project
         {
             gioiThieu1.BringToFront();
             buttonExit.BringToFront();
+            // thay doi o day nha!
         }
 
 
